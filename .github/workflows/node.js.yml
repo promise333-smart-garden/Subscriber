@@ -25,7 +25,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: Check spelling
-      uses: sbates130272/spellcheck-github-actions@v0.7.0
+      uses: check-spelling/check-spelling@0.0.16-alpha
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
