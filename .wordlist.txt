@@ -1,1 +1,17 @@
+GPLv
+IoT
+MQTT
+Pattullo
+creativecommons
+gpl
+href
+http
+https
+img
+io
+png
+sa
+src
+svg
+www
 GPL
